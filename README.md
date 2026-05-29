@@ -14,7 +14,7 @@ Mains power supply is applied at the primary of the step-down transformer. All t
 For a half wave rectifier, Vrms = Vm/2 and Vdc = Vm/π: where Vrms = rms value of input, Vdc = Average value of input and Vm = peak value of output.
 
 
-Full Wave Rectifier
+Half Wave Rectifier
 During the positive half cycle of the transformer secondary voltage, diode     is forward biased and      is reverse biased. So a current flows through the diode     , load resistor      and upper half of the transformer  winding.  During  the  negative  half  cycle,  diode       becomes  forward  biased  and becomes reverse biased. The current then flows through the diode     , load resistor      and lower half of the transformer winding. Current flows through the load resistor in the same direction during both the half cycles. Peak value of the output voltage is less than the peak value of the input voltage by 0.6V
 because of the voltage drop across the diode.
 During the positive half cycle of the secondary voltage, diodes      and      are forward biased and diodes and      are reverse biased. Therefore, current flows through the secondary winding, diode     , load resistor
@@ -38,14 +38,34 @@ CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="1055" height="687" alt="image" src="https://github.com/user-attachments/assets/1c691de7-48b3-438f-9bb0-01552a3c6b68" />
+
+
 Bridge rectifier with filter:
+
+<img width="1008" height="581" alt="image" src="https://github.com/user-attachments/assets/1d1f0e0b-800a-4acf-8724-33fd641cea0f" />
+
 
 TABULAR COLUMN
 Rectifier without filter
+
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/a97b2bd1-d55f-4315-bd20-5e1eea888510" />
+
 TABULAR COLUMN
 Rectifier with filter
 
+<img width="1600" height="937" alt="image" src="https://github.com/user-attachments/assets/285fdbf7-5a01-4723-a732-81b6d8566227" />
+
+
 WAVEFORM:
+Half Wave Rectifier
+
+<img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/dcc1c7d6-a204-43a9-8db2-c80b4c4a7f5c" />
+
+Half Wave Rectifier
+
+<img width="758" height="398" alt="image" src="https://github.com/user-attachments/assets/9404ad1e-5a00-4d16-9d29-1dbc2ea02979" />
+
 
 
 RESULT:
